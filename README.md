@@ -22,11 +22,11 @@ https://user-images.githubusercontent.com/66934377/159106704-1d03d18f-be57-468d-
 
 # Framework 
 
-The Below Table Framework's is used in this Project. The BusinessLoom website is made with Boostrap Framework
+The Below Table Framework's is used in this Project. The BusinessLoom website is made with Bootstrap Framework
 
 | Framework  | Version |
 | ------------- | ------------- |
-| Boostrap  | 5.1.3  |
+| Bootstrap  | 5.1.3  |
 
 
 
